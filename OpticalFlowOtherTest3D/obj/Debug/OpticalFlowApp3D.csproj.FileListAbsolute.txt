@@ -1,0 +1,16 @@
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.exe.config
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.exe
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.pdb
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\Filters.dll
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowDetermining.dll
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\Filters.pdb
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowDetermining.pdb
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowApp3D.csprojResolveAssemblyReference.cache
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.Form.resources
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.Properties.Resources.resources
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowApp3D.csproj.GenerateResource.Cache
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.exe
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.pdb
+I:\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.exe.config
+I:\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.exe
+I:\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.pdb

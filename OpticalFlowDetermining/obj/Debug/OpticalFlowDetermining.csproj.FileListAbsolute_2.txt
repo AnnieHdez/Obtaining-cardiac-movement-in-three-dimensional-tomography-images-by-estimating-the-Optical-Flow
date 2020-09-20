@@ -1,0 +1,41 @@
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowDetermining\bin\Debug\OpticalFlowDetermining.dll
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowDetermining\bin\Debug\OpticalFlowDetermining.pdb
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.dll
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.pdb
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.csprojResolveAssemblyReference.cache
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowDetermining\bin\Debug\OpticalFlowDetermining.dll
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowDetermining\bin\Debug\OpticalFlowDetermining.pdb
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.csprojResolveAssemblyReference.cache
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.dll
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.pdb
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowDetermining\bin\Debug\OpticalFlowDetermining.dll
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowDetermining\bin\Debug\OpticalFlowDetermining.pdb
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.csprojResolveAssemblyReference.cache
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.dll
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.pdb
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowDetermining\bin\Debug\OpticalFlowDetermining.dll
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowDetermining\bin\Debug\OpticalFlowDetermining.pdb
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.csprojResolveAssemblyReference.cache
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.dll
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.pdb
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowDetermining\bin\Debug\OpticalFlowDetermining.dll
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowDetermining\bin\Debug\OpticalFlowDetermining.pdb
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowDetermining\bin\Debug\Filters.dll
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowDetermining\bin\Debug\Filters.pdb
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.csprojResolveAssemblyReference.cache
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.dll
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.pdb
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowDetermining\bin\Debug\OpticalFlowDetermining.dll
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowDetermining\bin\Debug\OpticalFlowDetermining.pdb
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowDetermining\bin\Debug\Filters.dll
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowDetermining\bin\Debug\Filters.pdb
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.csprojResolveAssemblyReference.cache
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.dll
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.pdb
+C:\Users\Annie\Desktop\HeartTracker\OpticalFlowDetermining\bin\Debug\OpticalFlowDetermining.dll
+C:\Users\Annie\Desktop\HeartTracker\OpticalFlowDetermining\bin\Debug\OpticalFlowDetermining.pdb
+C:\Users\Annie\Desktop\HeartTracker\OpticalFlowDetermining\bin\Debug\Filters.dll
+C:\Users\Annie\Desktop\HeartTracker\OpticalFlowDetermining\bin\Debug\Filters.pdb
+C:\Users\Annie\Desktop\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.csprojResolveAssemblyReference.cache
+C:\Users\Annie\Desktop\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.dll
+C:\Users\Annie\Desktop\HeartTracker\OpticalFlowDetermining\obj\Debug\OpticalFlowDetermining.pdb

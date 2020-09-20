@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticalFlowApp3D", "OpticalFlowApp3D.csproj", "{0300AE62-0ED5-4A32-A921-6C4ECDD42F90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticalFlowDetermining", "..\OpticalFlowDetermining\OpticalFlowDetermining.csproj", "{3FA6942A-C681-4750-B112-2B0B6C157729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filters", "..\Filters\Filters.csproj", "{135B9840-05F7-4B28-A8BF-62E04E0755DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0300AE62-0ED5-4A32-A921-6C4ECDD42F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0300AE62-0ED5-4A32-A921-6C4ECDD42F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0300AE62-0ED5-4A32-A921-6C4ECDD42F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0300AE62-0ED5-4A32-A921-6C4ECDD42F90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA6942A-C681-4750-B112-2B0B6C157729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA6942A-C681-4750-B112-2B0B6C157729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA6942A-C681-4750-B112-2B0B6C157729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA6942A-C681-4750-B112-2B0B6C157729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135B9840-05F7-4B28-A8BF-62E04E0755DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135B9840-05F7-4B28-A8BF-62E04E0755DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135B9840-05F7-4B28-A8BF-62E04E0755DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135B9840-05F7-4B28-A8BF-62E04E0755DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest\bin\Debug\OpticalFlowOtherTest.exe.config
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest\bin\Debug\OpticalFlowOtherTest.exe
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest\bin\Debug\OpticalFlowOtherTest.pdb
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest\bin\Debug\EvilDICOM.dll
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest\bin\Debug\OpticalFlowDetermining.dll
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest\bin\Debug\OpticalFlowDetermining.pdb
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest\obj\Debug\OpticalFlowOtherTest.csprojResolveAssemblyReference.cache
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest\obj\Debug\OpticalFlowOtherTest.Form1.resources
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest\obj\Debug\OpticalFlowOtherTest.Properties.Resources.resources
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest\obj\Debug\OpticalFlowOtherTest.csproj.GenerateResource.Cache
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest\obj\Debug\OpticalFlowOtherTest.exe
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest\obj\Debug\OpticalFlowOtherTest.pdb

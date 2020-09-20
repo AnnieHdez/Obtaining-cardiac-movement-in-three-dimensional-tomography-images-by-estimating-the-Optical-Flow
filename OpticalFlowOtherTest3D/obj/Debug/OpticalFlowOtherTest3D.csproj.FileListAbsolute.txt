@@ -1,0 +1,75 @@
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.exe.config
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.exe
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.pdb
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest3D.csprojResolveAssemblyReference.cache
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.Form1.resources
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.Properties.Resources.resources
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest3D.csproj.GenerateResource.Cache
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.exe
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.pdb
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\EvilDICOM.dll
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowDetermining.dll
+C:\Users\Ludwig\Desktop\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowDetermining.pdb
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.exe.config
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.exe
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.pdb
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.exe
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.pdb
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\EvilDICOM.dll
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowDetermining.dll
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowDetermining.pdb
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest3D.csprojResolveAssemblyReference.cache
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.Form1.resources
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.Properties.Resources.resources
+C:\Users\Annie\Desktop\Nueva carpeta\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest3D.csproj.GenerateResource.Cache
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.exe.config
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.exe
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.pdb
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.exe
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.pdb
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\EvilDICOM.dll
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowDetermining.dll
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowDetermining.pdb
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest3D.csprojResolveAssemblyReference.cache
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.Form1.resources
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.Properties.Resources.resources
+C:\Users\Annie\Desktop\HeartTracker2\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest3D.csproj.GenerateResource.Cache
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.exe.config
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.exe
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.pdb
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.exe
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.pdb
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\EvilDICOM.dll
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowDetermining.dll
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowDetermining.pdb
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest3D.csprojResolveAssemblyReference.cache
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.Form1.resources
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.Properties.Resources.resources
+C:\Users\Annie\Desktop\Tesis\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest3D.csproj.GenerateResource.Cache
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.exe.config
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.exe
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.pdb
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\EvilDICOM.dll
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\Filters.dll
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowDetermining.dll
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\Filters.pdb
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowDetermining.pdb
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest3D.csprojResolveAssemblyReference.cache
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.Form1.resources
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.Properties.Resources.resources
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest3D.csproj.GenerateResource.Cache
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.exe
+F:\Universidad\5to Año\Tesis\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.pdb
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.exe.config
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.exe
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.pdb
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest3D.csprojResolveAssemblyReference.cache
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.Form1.resources
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest.Properties.Resources.resources
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\obj\Debug\OpticalFlowOtherTest3D.csproj.GenerateResource.Cache
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.exe
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowOtherTest.pdb
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\Filters.dll
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowDetermining.dll
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\Filters.pdb
+F:\Universidad\TesisFINAL\HeartTracker\OpticalFlowOtherTest3D\bin\Debug\OpticalFlowDetermining.pdb
