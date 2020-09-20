@@ -1,0 +1,15 @@
+F:\Universidad\5to Año\Tesis\HeartTracker\Filters\bin\Debug\Filters.dll
+F:\Universidad\5to Año\Tesis\HeartTracker\Filters\bin\Debug\Filters.pdb
+F:\Universidad\5to Año\Tesis\HeartTracker\Filters\obj\Debug\Filters.dll
+F:\Universidad\5to Año\Tesis\HeartTracker\Filters\obj\Debug\Filters.pdb
+F:\Universidad\5to Año\Tesis\HeartTracker\Filters\obj\Debug\Filters.csprojResolveAssemblyReference.cache
+F:\Universidad\TesisFINAL\HeartTracker\Filters\bin\Debug\Filters.dll
+F:\Universidad\TesisFINAL\HeartTracker\Filters\bin\Debug\Filters.pdb
+F:\Universidad\TesisFINAL\HeartTracker\Filters\obj\Debug\Filters.csprojResolveAssemblyReference.cache
+F:\Universidad\TesisFINAL\HeartTracker\Filters\obj\Debug\Filters.dll
+F:\Universidad\TesisFINAL\HeartTracker\Filters\obj\Debug\Filters.pdb
+C:\Users\Annie\Desktop\HeartTracker\Filters\bin\Debug\Filters.dll
+C:\Users\Annie\Desktop\HeartTracker\Filters\bin\Debug\Filters.pdb
+C:\Users\Annie\Desktop\HeartTracker\Filters\obj\Debug\Filters.csprojResolveAssemblyReference.cache
+C:\Users\Annie\Desktop\HeartTracker\Filters\obj\Debug\Filters.dll
+C:\Users\Annie\Desktop\HeartTracker\Filters\obj\Debug\Filters.pdb
